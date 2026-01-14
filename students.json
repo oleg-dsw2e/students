@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "name": "Олег",
+      "discipline": {
+        "title": "Математика",
+        "grades": [5, 4, 3, 2]
+      }
+    },
+    {
+      "name": "Игорь",
+      "discipline": {
+        "title": "География",
+        "grades": [4, 2, 3]
+      }
+    }
+  ]
+}
